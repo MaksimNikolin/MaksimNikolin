@@ -1,6 +1,6 @@
 ### Hi there, I'm Maksim👋
 - 🌱 I’m currently learning Data Science on Stepik, Kaggle.
-- 🔭 At the moment I am undergoing an internship in the development of a computer vision models.
+- 🔭 At the moment I am going an internship in the development of a CV models.
 <!--
 **MaksimNikolin/MaksimNikolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
