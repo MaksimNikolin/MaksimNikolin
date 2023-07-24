@@ -1,6 +1,7 @@
 ### Hi there, I'm Maksim👋
-- 🌱 I’m currently learning Data Science on Stepik, Kaggle.
-- 🔭 At the moment I'm exploring models on the tasks of detecting objects.
+- 🌱 I’m currently learning data science on Stepik, Kaggle, Workera.
+- 🔭 At the moment I'm developing models to solve image detection tasks.
+- 👯 I'm open to new offers to participate in data science projects.
 <!--
 **MaksimNikolin/MaksimNikolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
