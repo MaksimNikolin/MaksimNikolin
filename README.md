@@ -1,5 +1,5 @@
 ### Hi there, I'm Maksim👋
-- 🌱 I’m currently learning data science on Stepik, Kaggle, Workera.
+- 🌱 I’m currently learning data science on Stepik, Kaggle.
 - 🔭 At the moment I'm developing models to solve image detection tasks.
 - 👯 I'm open to new offers to participate in data science projects.
 <!--
