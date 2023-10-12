@@ -1,7 +1,5 @@
-### Hi there, I'm Maksim👋
-- 🌱 I’m currently learning data science on Stepik, Kaggle and other platforms.
-- 🔭 At the moment I studying the nlp problems with different algorythms.
-- 👯 I'm open to new offers to participate in data science projects.
+### Hi there👋
+
 <!--
 **MaksimNikolin/MaksimNikolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
