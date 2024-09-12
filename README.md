@@ -3,7 +3,7 @@
 <!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimNikolin&layout=compact) -->
 
 
-<div style='text-align: right;'> 👋 </div>
+<p align="center">👋</p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -29,15 +29,15 @@
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<div style='text-align: right;'> 📫 Reach me on </div>
+<p align="center">📫 Reach me on</p>
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
+<p align="center">💻 Check Out My Repos ⬇️</p>
 
-<div style='text-align: right;'> 💻 Check Out My Repos ⬇️ </div>
 
 
 
