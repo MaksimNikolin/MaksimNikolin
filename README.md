@@ -2,13 +2,15 @@
 
 # <p align="center">👋</p>
 
-<div align="center" style="background-color:#00BFFF; padding: 10px; border-radius: 5px; color: black; width: 100%; max-width: 600px;">
-  <p>Hello, I'm Maksim!</p>
-  <p>Data Scientist | ML Engineer 👨‍💻</p>
+<div align="center" style="background-color:#00BFFF; font-size: 12.2">
+  <pre><code>  <p style="font-size: 1.5em; margin: 10;">Hello, I'm Maksim!</p>
+
+Data Scientist | ML Engineer 👨‍💻
+  </code></pre>
 </div>
 
 
-
+    
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
