@@ -9,8 +9,16 @@ Data Scientist | ML Engineer 👨‍💻
   </code></pre>
 </div>
 
+<h3 align="center"> 👨‍💻 Whoami</h3>
+<p align="center">
+  <samp>A skilled Data Scientist with over two years of experience in the field, bringing expertise in data analysis, statistical modeling, and machine learning. Proficient in the end-to-end data science workflow, from data collection and cleaning to model development and deployment. Demonstrates a strong understanding of the technologies and methodologies necessary for creating data-driven insights and solutions, including expertise in Python, R, SQL, and popular data science libraries. Adept at working with large datasets and developing scalable models to support decision-making and drive business growth.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=MaksimNikolin" alt="https://github.com/MaksimNikolin" />
+</p>
 
-    
+<h3 align="center"> 🔭 Work Tools</h3>
+
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -37,9 +45,7 @@ Data Scientist | ML Engineer 👨‍💻
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </div>
 
-# <p align="center">![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)</p>
-
-### <p align="center">📫 Contact Me</p>
+<h3 align="center"> 🔭 Contact Me</h3>
 
 <div align="center">
   <a href="https://www.facebook.com/max.nikolin">
@@ -56,10 +62,4 @@ Data Scientist | ML Engineer 👨‍💻
   </a>
 </div>
 
-
-### <p align="center">💻 Check Out My Repos ⬇️</p>
-
-
-
-
-
+<h3 align="center"> 💻 Check Out My Repos ⬇️</h3>
