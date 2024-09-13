@@ -1,20 +1,15 @@
 <!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimNikolin&layout=compact) -->
 
-# <p align="center">👋</p>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ6N3VvMjJ0cWxxMGk5NWR3ZDMyczV0NmNzenB0bzVlZzJlczZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif" alt="header"/>
+</div>
 
-<div align="center" style="background-color:#00BFFF; font-size: 12.2">
+<!-- <div align="center" style="background-color:#00BFFF; font-size: 12.2">
   <pre><code>  <p style="font-size: 1.5em; margin: 10;">Hello, I'm Maksim!</p>
 
 Data Scientist | ML Engineer
   </code></pre>
-</div>
-
-<!-- <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p> -->
-
+</div> -->
 
 <h3 align="center"> 👨‍💻 Whoami</h3>
 <p align="center">
