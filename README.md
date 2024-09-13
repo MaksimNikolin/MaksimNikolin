@@ -9,6 +9,13 @@ Data Scientist | ML Engineer 👨‍💻
   </code></pre>
 </div>
 
+<!-- <h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p> -->
+
+
 <h3 align="center"> 👨‍💻 Whoami</h3>
 <p align="center">
   <samp>A skilled Data Scientist with over two years of experience in the field, bringing expertise in data analysis, statistical modeling, and machine learning. Proficient in the end-to-end data science workflow, from data collection and cleaning to model development and deployment. Demonstrates a strong understanding of the technologies and methodologies necessary for creating data-driven insights and solutions, including expertise in Python, R, SQL, and popular data science libraries. Adept at working with large datasets and developing scalable models to support decision-making and drive business growth.
