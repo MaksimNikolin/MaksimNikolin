@@ -5,7 +5,7 @@
 <div align="center" style="background-color:#00BFFF; font-size: 12.2">
   <pre><code>  <p style="font-size: 1.5em; margin: 10;">Hello, I'm Maksim!</p>
 
-Data Scientist | ML Engineer 👨‍💻
+Data Scientist | ML Engineer
   </code></pre>
 </div>
 
@@ -18,12 +18,19 @@ Data Scientist | ML Engineer 👨‍💻
 
 <h3 align="center"> 👨‍💻 Whoami</h3>
 <p align="center">
-  <samp>A skilled Data Scientist with over two years of experience in the field, bringing expertise in data analysis, statistical modeling, and machine learning. Proficient in the end-to-end data science workflow, from data collection and cleaning to model development and deployment. Demonstrates a strong understanding of the technologies and methodologies necessary for creating data-driven insights and solutions, including expertise in Python, R, SQL, and popular data science libraries. Adept at working with large datasets and developing scalable models to support decision-making and drive business growth.
+  <samp> 
+        A skilled Data Scientist with two years of experience in the field, bringing expertise in data analysis, statistical
+   <br> modeling, and machine learning. Proficient in the end-to-end data science workflow, from data collection and
+   <br> cleaning to model development and deployment. Demonstrates a strong understanding of the technologies
+   <br> and methodologies necessary for creating data-driven insights and solutions, including expertise
+   <br> in Python, R, SQL, and popular data science libraries. Adept at working with large datasets
+   <br> and developing scalable models to support decision-making and drive business growth.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=MaksimNikolin" alt="https://github.com/MaksimNikolin" />
 </p>
 
+<br>
 <h3 align="center"> 🔭 Work Tools</h3>
 
 <div align="center">
@@ -52,7 +59,8 @@ Data Scientist | ML Engineer 👨‍💻
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </div>
 
-<h3 align="center"> 🔭 Contact Me</h3>
+<br>
+<h3 align="center"> 💬 Contact Me</h3>
 
 <div align="center">
   <a href="https://www.facebook.com/max.nikolin">
@@ -69,4 +77,5 @@ Data Scientist | ML Engineer 👨‍💻
   </a>
 </div>
 
+<br>
 <h3 align="center"> 💻 Check Out My Repos ⬇️</h3>
